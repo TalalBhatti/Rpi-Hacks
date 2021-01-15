@@ -9,3 +9,6 @@ For the automation of the process you have to edit somethings if it doesn't work
   #service crond start
   #service crond restart
   
+2)Check your internet connection.
+
+3)Make the command executable
