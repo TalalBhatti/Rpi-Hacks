@@ -12,3 +12,6 @@ For the automation of the process you have to edit somethings if it doesn't work
 2)Check your internet connection.
 
 3)Make the command executable
+
+$) 5 * * * * * command 
+  this command will be automatically execute on the given time
